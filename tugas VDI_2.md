@@ -5,7 +5,7 @@
 ### Bad visualisasi dengan menerapkan 4 prisip dan gambar yang pertama
  
  ## **Bad Visualitation**
-![Logo Markdown]
+![bad.visusation](./bad.visusation.png)
 **empat prinsip utama visualisasi: keterbacaan, interpretasi, akurasi, dan kesederhanaan.**
 
 1. **Keterbacaan**:
@@ -21,7 +21,7 @@ Visualisasi ini mungkin terlihat estetis, tetapi terlalu rumit untuk menangkap i
 
 ## **Good visulitattion**
 
-![good visualitation.png]
+![good visualitation](./good%20visualitation.png)
 
 1. **Keterbacaan**:
 Grafik mudah dibaca karena menggunakan plot garis sederhana dengan label yang jelas untuk setiap pohon (Tree 1 hingga Tree 5). Sumbu x dan y diberi label yang sesuai, yaitu "Days old" untuk usia pohon dalam hari dan "Circumference" untuk lingkar batang pohon dalam milimeter, yang membantu pengguna memahami informasi yang disajikan.
